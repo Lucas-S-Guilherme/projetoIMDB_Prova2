@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "ConsultaFilmesProva",
     "slug": "ConsultaFilmesProva",
+=======
+    "name": "ConsultaFilmes",
+    "slug": "ConsultaFilmes",
+>>>>>>> 706cd809dfa93bc80d0c30bd337cbc3894d6295f
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -16,7 +21,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.lucassgui.ConsultaFilmesProva"
+      "package": "com.lucassgui.ConsultaFilmes"
     },
     "web": {
       "bundler": "metro",
@@ -43,7 +48,11 @@
         "origin": false
       },
       "eas": {
+<<<<<<< HEAD
         "projectId": "fec63860-9ddd-40fe-97aa-7ce658473e76"
+=======
+        "projectId": "2515003b-a679-4660-8b62-6fb03a88a0c7"
+>>>>>>> 706cd809dfa93bc80d0c30bd337cbc3894d6295f
       }
     }
   }

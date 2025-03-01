@@ -9,15 +9,12 @@
       "distribution": "internal"
     },
     "preview": {
-      "distribution": "internal",
-      "android": {
-        "buildType": "apk"
-      }
+      "distribution": "internal"
     },
     "production": {
-      "android": {
-        "buildType": "app-bundle"
-      }    
+      "android":{
+        "buildType": "apk"
+      }
     }
   },
   "submit": {
